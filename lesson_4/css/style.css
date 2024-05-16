@@ -1,0 +1,37 @@
+@import url("reset.css");
+
+h1,
+h2 {
+    color: violet;
+    font-size: 24px;
+}
+.box {
+    color: brown;
+}
+.block-title {
+    font-size: 18px;
+}
+.title {
+    color: red;
+}
+.list {
+    color: green;
+}
+.link {
+    color: blue;
+    font-size: 12px;
+}
+.block {
+    color: orangered;
+}
+
+#some-id + p {
+    color: black;
+}
+
+li {
+    color: yellow;
+}
+[class*="photo"] {
+    color: pink;
+}
