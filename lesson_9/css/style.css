@@ -6,13 +6,14 @@ body {
     font-family: "Cormorant Infant", sans-serif;
     font-size: 20px;
     color: black;
-    margin: 0 auto;
 }
 .jewels {
+    min-width: 1264px;
     max-width: 1264px;
     max-height: 714px;
     padding: 20px;
     font-size: 0;
+    margin: 0 auto;
 }
 .jewels-title {
     width: 488px;
@@ -90,10 +91,12 @@ body {
 
 
 .work {
+    min-width: 1260px;
     max-width: 1260px;
     max-height: 519px;
     padding: 20px;
     font-size: 0;
+    margin: 0 auto;
 }
 .work-box {
     width: 137px;
@@ -200,9 +203,11 @@ body {
 
 
 .business {
+    min-width: 715px;
     max-width: 715px;
     max-height: 875px;
     padding: 20px;
+    margin: 0 auto;
 }
 .business-box {
     width: 200px;
@@ -310,9 +315,11 @@ body {
 
 
 .management {
+    min-width: 732px;
     max-width: 732px;
     max-height: 852px;
     padding: 20px;
+    margin: 0 auto;
 }
 .management-title {
     font-family: "Poppins", sans-serif;
@@ -423,6 +430,7 @@ body {
     line-height: 1.17;
     color: #FFFFFF;
     padding: 35px 50px;
+    margin: 0 auto;
 }
 .click-game:active {
     background-color: #04290c;
